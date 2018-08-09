@@ -1,2 +1,3 @@
 print("yo, im programmer2000")
 print("хочу в политех")
+print("...")
