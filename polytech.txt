@@ -1,2 +1,3 @@
 print("polytech yo")
 print("hello polyuniversity")
+print("Its cool to study here!")
