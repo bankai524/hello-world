@@ -1,1 +1,0 @@
-print("yo, im programmer2000")
