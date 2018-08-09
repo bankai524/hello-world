@@ -1,3 +1,6 @@
 print("polytech yo")
 print("hello polyuniversity")
 print("Its cool to study here!")
+start program;
+get polytech advanced version
+super mega feature
