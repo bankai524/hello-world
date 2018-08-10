@@ -10,7 +10,7 @@ namespace HelloCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello suka World");
+            Console.WriteLine("Hello suka World;");
             Console.ReadKey();
         }
     }
